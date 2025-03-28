@@ -1,6 +1,6 @@
 # Load Forecasting Project
 
-This toy project focuses on developing and implementing load forecasting models for electrical power systems. The project is structured to analyze historical weather and load data and use gradient boosting to forecast future electricity demand.
+This toy project focuses on developing and implementing load forecasting models for electrical power systems. The project is structured to analyze historical weather and load data and use gradient boosting to forecast future electricity demand. Individual regression and classifier models are learned for each forecasting window, enabling straightforward scope expansion and timewindow-specific feature learning.
 
 ## Getting Started
 
